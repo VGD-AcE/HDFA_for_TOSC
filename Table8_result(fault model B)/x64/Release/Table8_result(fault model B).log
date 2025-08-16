@@ -1,0 +1,14 @@
+﻿  fault model B.cpp
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(202,47): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(206,37): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(230,41): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(232,40): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(236,32): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(237,31): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model B)\fault model B.cpp(480,41): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 400 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Table8_result(fault model B).vcxproj -> E:\Code\tifs_reviewer\Table8_result(fault model B)\x64\Release\Table8_result(fault model B).exe
