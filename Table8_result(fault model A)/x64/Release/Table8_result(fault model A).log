@@ -1,0 +1,13 @@
+﻿  fault model A.cpp
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(202,47): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(206,37): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(230,41): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(232,40): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(236,32): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(237,31): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(494,41): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 400 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Table8_result(fault model A).vcxproj -> E:\Code\tifs_reviewer\Table8_result(fault model A)\x64\Release\Table8_result(fault model A).exe
